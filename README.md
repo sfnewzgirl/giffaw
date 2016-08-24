@@ -1,5 +1,7 @@
 # Giffaw
 
+Reflection - This assignment was a fun challenge. Having step by step instructions was a great guide to breaking the training down into pieces. It helped me focus on each small task at hand. 
+
 Your goal is to integrate with the Giphy API.
 
 https://github.com/Giphy/GiphyAPI
